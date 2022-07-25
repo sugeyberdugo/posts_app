@@ -1,4 +1,4 @@
-# lista_jsonplace
+# PostsApp
 
 A new Flutter project.
 
